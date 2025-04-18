@@ -8,7 +8,7 @@ Animations (new tab, trackpad, etc), Blur and Transparency, UI changes, Tab grou
 ### Please make sure that you inatall in the order given by the instructions below. 
 ## Installation
 1. open about:profiles and create a new profile. DO NOT OPEN IT.
-2. download Zen-Arc-Sidebery.zip and unzip it.
+2. download Zen-Arc-Sidebery.zip from releases and unzip it.
 3. move all the files in the folder into the profile folder.
 4. restart zen.
 ## Thanks
